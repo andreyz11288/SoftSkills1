@@ -1,12 +1,25 @@
 .caption{
     text-align: center;
-    font-size: 24px;
-    font-weight: 800;
+    font-size: 34px;
+    font-weight: 900;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .level{
-text-align: center;
-width: 500px;
+    text-align: center;
+    width: 400px;
 }
 .scope{
-    width: 500px;
+    width: 400px;
+    padding: 10px;
+    
+}
+.table{
+
+    margin: auto;
+}
+.header{
+    color: white;
+    background-color: gray;
+    font-size: 20px;
 }
