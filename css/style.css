@@ -1,3 +1,7 @@
+.table{
+    margin: auto;
+    background-color: black;
+}
 .caption{
     text-align: center;
     font-size: 34px;
@@ -13,11 +17,11 @@
     width: 400px;
     padding: 10px;
 }
-.table{
-    margin: auto;
-}
 .header{
     color: white;
     background-color: gray;
     font-size: 20px;
+}
+.tbody{
+    background-color: white;
 }
